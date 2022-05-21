@@ -1,0 +1,25 @@
+¿Cuántos suman los ángulos de un triángulo? #s#a.	360 grados#s#&b&.	180 grados#s#c.	90 grados#s#d.	270 grados
+¿Cuánto suman 2 mas 2?#s#a.	3#s#b.	1#s#&c&.	4#s#d.	50
+¿Cuánto es 10 dividido 10?#s#a.	2#s#b.	4#s#c.	6#s#&d&.	1
+¿Cuánto es 1’000.000 por 0?#s#a.	1’000.000#s#&b&.	0#s#c.	1#s#d.	999.999
+¿Cuánto es 5 por 1?#s#&a&.	5#s#b.	4#s#c.	0#s#d.	1
+¿Cuál es la capital de Francia?#s#&a&.	París#s#b.	Moscú#s#c.	Bruselas#s#d.	Moroni
+¿Cuál es la capital de Italia?#s#a.	Berlín#s#b.	Buenos Aires#s#c.	Brasilia#s#&d&.	Roma
+¿Cuál es la capital de España?#s#a.	Quito#s#b.	Lisboa#s#&c&.	Madrid#s#d.	Bucarest
+¿Cuál es la capital de Chile?#s#a.	Washington D.C.#s#&b&.	Santiago de Chile.#s#c.	Bogotá D.C.#s#d.	La Paz.
+¿Cuál es la capital de Panamá?#s#a.	Caracas.#s#b.	Montevideo.#s#&c&.	Ciudad de Panamá.#s#d.	Bogotá D.C.
+¿Qué animal es el más grande del planeta?#s#a.	Tiburón#s#&b&.	 Ballena Azul#s#c.	Calamar gigante#s#d.	Anaconda
+¿Qué animal gasta más tiempo del día durmiendo?#s#a.	Oso perezoso.#s#&b&.	Koala.#s#c.	Jirafa#s#d.	Elefante.
+¿Qué animal NO es un reptil?#s#a.	Cocodrilo#s#b.	Lagartija#s#&c&.	Armadillo#s#d.	Iguana
+¿Cómo se llama el sonido producido por el Buho?#s#a.	Aullar#s#b.	Balido#s#&c&.	Ulular#s#d.	Siseo
+¿Cuál es el animal más rápido del planeta?#s#a.	Perro#s#&b&.	Guepardo#s#c.	Jaguar#s#d.	Pantera
+¿Cuál es el segundo país más habitado del planeta?#s#a.	China#s#&b&.	India#s#c.	Estados unidos#s#d.	Indonesia
+¿Cuál es el país más frío?#s#&a&.	Rusia#s#b.	Finlandia#s#c.	Groenlandia.#s#d.	Antártida.
+¿Cuál es el país donde más llueve?#s#a.	Panamá#s#b.	Bangladesh#s#c.	Santo Tomé y Príncipe#s#&d&.	Colombia
+¿País más rico según PIB?#s#a.	Alemania#s#b.	China#s#c.	Japón#s#&d&.	Estados Unidos
+¿Cuál es el país menos habitado?#s#&a&.	Antigua y Barbuda#s#b.	Jamaica#s#c.	Hong Kong#s#d.	Islas Vírgenes 
+¿Cuál es la moneda de Ecuador?#s#a.	Peso ecuatoriano#s#b.	Sucre ecuatoriano#s#&c&.	Dólar estadounidense#s#d.	Euro
+¿Cuál es la moneda de Nigeria?#s#a.	Forint#s#&b&.	Naira#s#c.	Chelín#s#d.	Franco
+¿Cuál es la moneda de Dinamarca?#s#&a&.	Corona#s#b.	Dólar#s#c.	Euro#s#d.	Rial
+¿Cuál es la moneda de Croacia?#s#a.	Dalasi#s#b.	Shequel#s#c.	Forint#s#&d&.	Kuna
+¿Cuál es la moneda Costa Rica?#s#a.	Peso#s#&b&.	Colón#s#c.	Real#s#d.	Dólar del Caribe Oriental
